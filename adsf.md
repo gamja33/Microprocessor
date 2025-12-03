@@ -159,8 +159,9 @@ sudo systemctl status my_iot.service
 sudo journalctl -u my_iot.service -f
 ```
 
+
+## 🚦 부팅 프로세스 최종 요약
 ```
-🚦 부팅 프로세스 최종 요약
 ⚡ 전원 ON
 
 라즈베리파이가 켜집니다.
@@ -190,3 +191,4 @@ Systemd: "오케이, 핫스팟 켜졌다. 이제 파이썬 코드(main.py) 실�
 ESP32 연결 & 웹서버 시작: 본격적인 작동 시작.
 
 ```
+
